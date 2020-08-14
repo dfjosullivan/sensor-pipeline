@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.sensorsimulator.Main
+Class-Path: com.microsoft.azure.storage.StorageException
+
